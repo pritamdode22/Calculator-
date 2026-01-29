@@ -19,3 +19,15 @@ This project provides a clean and responsive UI with basic arithmetic operations
 - **JavaScript (Vanilla JS)** – Calculator logic
 
 ## 📂 Project Structure
+calculator/
+│
+├── index.html
+├── style.css
+└── script.js
+
+
+## 💻 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
