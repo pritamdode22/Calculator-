@@ -18,12 +18,6 @@ This project provides a clean and responsive UI with basic arithmetic operations
 - **CSS3** – Styling & layout
 - **JavaScript (Vanilla JS)** – Calculator logic
 
-## 📂 Project Structure
-calculator/
-│
-├── index.html
-├── style.css
-└── script.js
 
 
 
